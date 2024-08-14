@@ -7,12 +7,23 @@ module.exports = {
   ],
   theme: {
     extend: {
+      flexBasis: {
+        '1/3': '30%',
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      maxWidth: {
+        'custom': '800px',
+      },
+      fontFamily: {
+        'roboto': ['Roboto', 'sans-serif'],
+        'roboto-mono': ['Roboto Mono', 'monospace'],
+      },
     },
   },
+  variants: {},
   plugins: [],
 };
