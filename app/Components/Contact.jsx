@@ -33,7 +33,7 @@ function Contact() {
   };
 
   return (
-    <div className='flex flex-col md:flex-row justify-between pl-[5%] pr-[5%] max-w-[90%] mx-auto' id='contact'>
+    <div className='flex flex-col md:flex-row justify-between pl-[5%] pr-[5%] mb-10 max-w-[90%] mx-auto' id='contact'>
       <div className='basis-[48%] text-[#676767]'>
         <h1 className='flex text-[20px] font-bold mb-[20px] items-center text-[#000F38]'>
           Send us a Message
@@ -80,7 +80,7 @@ function Contact() {
               height={30}
               alt="Location Icon"
             />
-            123 University St, City, Country
+            Abbottabad, Pakistan
           </li>
         </ul>
       </div>
