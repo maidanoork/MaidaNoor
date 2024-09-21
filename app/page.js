@@ -18,7 +18,7 @@ export default function Home() {
     <Title subTitle="My Skills" title="What I can do"/>
     <Skills/>
     <About/>
-    <Title subTitle="Achievements" title="My Certificates"/>
+    <Title subTitle="Achievements" title="Certificates And Achievements"/>
     <Achievements/>
     <Title subTitle="Portfolio" title="My Projects"/>
     <Projects/>

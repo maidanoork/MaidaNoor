@@ -5,10 +5,10 @@ import Image from 'next/image';
 
 function Projects() {
   const images = [
-    { src: '/gallery-1.png', link: 'https://nextjs.org/docs/messages/no-img-element' },
-    { src: '/gallery-2.png', link: 'https://github.com/user/repo2' },
-    { src: '/gallery-3.png', link: 'https://github.com/user/repo3' },
-    { src: '/gallery-4.png', link: 'https://github.com/user/repo4' },
+    { src: '/project-1.png', link: 'https://canopus-consulting.com' },
+    { src: '/project-2.png', link: 'https://www.sceptrum-consulting.com' },
+    { src: '/project-3.png', link: 'https://www.imonkeyss.com' },
+    { src: '/project-4.png', link: 'https://www.cryptowhitepapersonline.com/' },
     // Add more images and links as needed
   ];
 

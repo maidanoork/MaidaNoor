@@ -4,7 +4,8 @@ import Image from 'next/image'
 function Skills() {
   return (
     <div className='z-60 pl-[5%] pr-[5%] my-20 mx-auto w-11/12 flex flex-wrap items-center justify-between' id='skills'>
-      <div className='relative m-2 p-2 border border-gray-300 rounded-lg shadow-md transition-transform transform hover:scale-105 basis-1/3 min-w-[200px]'>
+      <div className='relative m-2 p-2 border border-gray-300 rounded-lg shadow-md 
+      transition-transform transform hover:scale-105 basis-1/3 min-w-[200px]'>
         <Image
           src="/skill-1.png"
           layout="responsive"

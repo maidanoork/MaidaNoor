@@ -5,19 +5,11 @@ function Achievements() {
   return (
     <div className='pl-[5%] pr-[5%] my-20 mx-auto w-[90%] text-center' id='achievements'>
       <div className='flex flex-wrap justify-center mb-10 gap-4'>
+        
         <div className='relative w-[230px] h-[230px]'>
           <Image
             className='rounded-lg'
-            src="/gallery-1.png"
-            layout="fill"
-            objectFit="cover"
-            alt="Project 1"
-          />
-        </div>
-        <div className='relative w-[230px] h-[230px]'>
-          <Image
-            className='rounded-lg'
-            src="/gallery-2.png"
+            src="/ignite.jpg"
             layout="fill"
             objectFit="cover"
             alt="Project 2"
@@ -26,7 +18,7 @@ function Achievements() {
         <div className='relative w-[230px] h-[230px]'>
           <Image
             className='rounded-lg'
-            src="/gallery-3.png"
+            src="/xistil.png"
             layout="fill"
             objectFit="cover"
             alt="Project 3"
@@ -35,7 +27,7 @@ function Achievements() {
         <div className='relative w-[230px] h-[230px]'>
           <Image
             className='rounded-lg'
-            src="/gallery-4.png"
+            src="/teleup.png"
             layout="fill"
             objectFit="cover"
             alt="Project 4"

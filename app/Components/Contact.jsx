@@ -80,7 +80,7 @@ function Contact() {
               height={30}
               alt="Location Icon"
             />
-            Abbottabad, Pakistan
+            Rawalpindi, Pakistan
           </li>
         </ul>
       </div>

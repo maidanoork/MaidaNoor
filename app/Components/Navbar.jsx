@@ -60,8 +60,8 @@ function Navbar() {
             </Link>
           </li>
           <li className="py-2 px-5 lg:py-0 lg:px-0">
-            <Link to="achivements" smooth={true} offset={-260} duration={500}>
-              Certificates
+          <Link to="achievements" smooth={true} offset={-260} duration={500}>
+              Achievements
             </Link>
           </li>
           <li className="py-2 px-5 lg:py-0 lg:px-0">
